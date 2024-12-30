@@ -1,0 +1,8 @@
+the extension loads and pops up, but as soon as I go outside of it to highlight text, it dissapears, and I can no longer use it for its' purpose. 
+
+-- 
+
+fix everything here. 
+
+-- 
+
